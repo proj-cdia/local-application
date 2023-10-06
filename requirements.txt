@@ -1,0 +1,9 @@
+langchain
+bitsandbytes
+accelerate
+xformers
+einops
+sentence_transformers
+transformers
+chromadb
+torch
